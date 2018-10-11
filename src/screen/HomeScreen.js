@@ -53,7 +53,7 @@ export default class extends Component {
                 }}
             >
                 <Button color={fadeCol}
-                        title="闪瞎你的眼！"
+                        title="闪瞎你的眼！！"
                         onPress={() =>
                             navigate('Profile', {name: '是你呀...'})
                         }
